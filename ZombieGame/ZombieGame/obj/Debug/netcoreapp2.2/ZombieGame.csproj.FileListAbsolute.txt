@@ -1,0 +1,11 @@
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\obj\Debug\netcoreapp2.2\ZombieGame.csprojAssemblyReference.cache
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\obj\Debug\netcoreapp2.2\ZombieGame.csproj.CoreCompileInputs.cache
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\obj\Debug\netcoreapp2.2\ZombieGame.AssemblyInfoInputs.cache
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\obj\Debug\netcoreapp2.2\ZombieGame.AssemblyInfo.cs
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\bin\Debug\netcoreapp2.2\ZombieGame.deps.json
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\bin\Debug\netcoreapp2.2\ZombieGame.runtimeconfig.json
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\bin\Debug\netcoreapp2.2\ZombieGame.runtimeconfig.dev.json
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\bin\Debug\netcoreapp2.2\ZombieGame.dll
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\bin\Debug\netcoreapp2.2\ZombieGame.pdb
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\obj\Debug\netcoreapp2.2\ZombieGame.dll
+C:\Users\Angie\source\repos\ZombieGame\ZombieGame\obj\Debug\netcoreapp2.2\ZombieGame.pdb
